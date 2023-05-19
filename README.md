@@ -1,6 +1,6 @@
 ## About this app
 
-This app is mock GPT2023 app which I created to practice React and CSS styling.
+This app is mock GPT3 app which I created to practice React and CSS styling.
 
 It contains a variety of sections that can be accessed from the headings which will auto-scroll to the selected area.
 
